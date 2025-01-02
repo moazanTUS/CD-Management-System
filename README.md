@@ -14,9 +14,4 @@ Maven: For dependency management and builds.
 Java: Core application logic.
 Eclipse: IDE for development.
 
-How to Run
-Clone the repository.
-Import the project into Eclipse as a Maven project.
-Configure the database in application.properties.
-Run the WebProjectApplication.java file.
-Access the application at http://localhost:<port>.
+
